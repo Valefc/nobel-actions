@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-2023
-=======
 2025
->>>>>>> Stashed changes
